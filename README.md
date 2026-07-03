@@ -84,6 +84,17 @@ Enterprise Digital Brain bridges this gap by combining AI, semantic search, know
 - 🔒 Governance & Security
 - 📈 Analytics & Monitoring
 - 🔗 Enterprise System Integration
+
+  ## 🎯 Key Capabilities
+
+- Enterprise-wide knowledge discovery
+- Context-aware AI assistants
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- Knowledge graph integration
+- Intelligent enterprise search
+- Decision intelligence
+- Secure AI governance
   
 ## 🎯 Vision
 
@@ -172,16 +183,27 @@ Project documentation is under active development.
 
 ---
 
+## 🔗 Related Projects
+
+- Enterprise AI Blueprints
+- Platform Engineering Toolkit
+- Research Papers
+- Datasets
+- Awesome Enterprise AI
+
 # 🛠 Technology Stack
 
-| Layer | Technologies |
-|--------|--------------|
-| AI | OpenAI, Azure AI, Anthropic |
-| LLMOps | LangChain, LangGraph |
-| Search | RAG, Vector Database |
+| Category | Technologies |
+|-----------|--------------|
+| AI Models | OpenAI, Azure OpenAI, Anthropic |
+| AI Frameworks | LangChain, LangGraph |
+| Search | RAG, Vector Databases |
+| Knowledge | Knowledge Graphs |
 | Cloud | AWS, Azure |
-| DevOps | Docker, Kubernetes |
-| Data | Knowledge Graphs |
+| Containers | Docker, Kubernetes |
+| DevOps | GitHub Actions |
+| Languages | Python, TypeScript |
+| Storage | PostgreSQL, Redis |
 
 # 📚 Documentation
 
@@ -218,18 +240,31 @@ MIT License
 
 ---
 
+---
+
 <p align="center">
 
-Built with ❤️ by Enterprise Intelligence Lab
+Built with ❤️ by <strong>Enterprise Intelligence Lab</strong>
 
 🌐 https://www.enterpriseintelligencelab.com
 
+⭐ If you find this project useful, please consider giving it a star.
+
 </p>
+
 ## 🔗 Resources
 
-- 🌐 Website: https://www.enterpriseintelligencelab.com
-- 🏢 Organization: https://github.com/Enterprise-Intelligence-Lab
-- 📧 Contact: info@enterpriseintelligencelab.com
+<p align="center">
+
+<a href="https://www.enterpriseintelligencelab.com">
+<img src="https://img.shields.io/badge/Website-Enterprise%20Intelligence%20Lab-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/Enterprise-Intelligence-Lab">
+<img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
   ## 🎬 Demo
 
