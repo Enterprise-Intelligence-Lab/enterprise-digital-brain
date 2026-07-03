@@ -5,12 +5,13 @@
 <h1 align="center">
 🧠 Enterprise Digital Brain
 </h1>
+
 <p align="center">
+AI-powered Enterprise Knowledge Platform
+</p>
 
-### AI-powered Enterprise Knowledge Platform
-
-Enterprise AI • Agentic AI • Knowledge Graph • RAG • LLMOps • Platform Engineering
-
+<p align="center">
+Enterprise AI • Agentic AI • Knowledge Graph • RAG • LLMOps
 </p>
 <p align="center">
 
