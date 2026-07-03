@@ -1,4 +1,8 @@
 # 🧠 Enterprise Digital Brain
+![License](https://img.shields.io/github/license/Enterprise-Intelligence-Lab/enterprise-digital-brain?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Enterprise-Intelligence-Lab/enterprise-digital-brain?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Enterprise-Intelligence-Lab/enterprise-digital-brain?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Enterprise-Intelligence-Lab/enterprise-digital-brain?style=for-the-badge)
 
 <p align="center">
 
