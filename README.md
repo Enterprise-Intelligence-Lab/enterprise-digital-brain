@@ -2,7 +2,16 @@
 <img src="assets/banner.png" width="100%">
 </p>
 
-# 🧠 Enterprise Digital Brain
+<h1 align="center">
+🧠 Enterprise Digital Brain
+</h1>
+<p align="center">
+
+### AI-powered Enterprise Knowledge Platform
+
+Enterprise AI • Agentic AI • Knowledge Graph • RAG • LLMOps • Platform Engineering
+
+</p>
 <p align="center">
 
 <img src="https://img.shields.io/github/license/Enterprise-Intelligence-Lab/enterprise-digital-brain?style=for-the-badge">
@@ -41,11 +50,26 @@
 
 ## 🚀 Overview
 
-Enterprise Digital Brain is an open-source framework for building intelligent enterprise knowledge platforms powered by Artificial Intelligence, Large Language Models, Agentic AI, Retrieval-Augmented Generation (RAG), and Knowledge Graphs.
+Enterprise Digital Brain is an open-source enterprise AI platform designed to transform organizational knowledge into an intelligent, searchable, and actionable decision-support system.
 
-The goal is to enable organizations to transform enterprise knowledge into an intelligent decision-support system.
+By combining Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Knowledge Graphs, Agentic AI, and cloud-native architecture, the platform enables organizations to build scalable and governed Enterprise AI solutions.
 
 ---
+## 💡 Why Enterprise Digital Brain?
+
+Modern enterprises generate vast amounts of knowledge across documents, applications, and business processes. Traditional search systems cannot fully understand context, relationships, or organizational intelligence.
+
+Enterprise Digital Brain bridges this gap by combining AI, semantic search, knowledge graphs, and autonomous agents into a unified intelligence platform.
+
+## 💼 Use Cases
+
+- Enterprise Knowledge Management
+- AI-powered Digital Assistants
+- Intelligent Enterprise Search
+- Decision Intelligence
+- Enterprise Automation
+- Regulatory Compliance
+- Operational Excellence
 
 # ✨ Features
 
@@ -73,29 +97,20 @@ Create an AI-powered digital brain capable of:
 - Knowledge Graphs
 - AI Governance
 
-
-```
 ## 🏗 Architecture
 
 ```mermaid
 flowchart TD
 
 A[Enterprise Applications]
-
 A --> B[Knowledge Layer]
-
 B --> C[Knowledge Graph]
-
 C --> D[Vector Database]
-
 D --> E[LLM Gateway]
-
 E --> F[AI Agents]
-
 F --> G[Enterprise Portal]
 ```
-
----
+> 📌 A detailed system architecture diagram will be published in the `/architecture` directory.
 
 # 🚀 Getting Started
 
@@ -183,16 +198,17 @@ Project documentation is under active development.
 
 Coming Soon
 
-# 🌍 Community
+## 🌍 Community
 
-⭐ Star this repository
+We welcome contributions from developers, researchers, architects, and AI enthusiasts.
 
-🐛 Report Issues
+You can help by:
 
-💡 Share Ideas
-
-🤝 Submit Pull Requests
-
+- ⭐ Starring the repository
+- 🐛 Reporting issues
+- 💡 Suggesting new ideas
+- 🤝 Opening pull requests
+- 💬 Joining discussions
 ---
 
 # 📜 License
@@ -208,3 +224,20 @@ Built with ❤️ by Enterprise Intelligence Lab
 🌐 https://www.enterpriseintelligencelab.com
 
 </p>
+## 🔗 Resources
+
+- 🌐 Website: https://www.enterpriseintelligencelab.com
+- 🏢 Organization: https://github.com/Enterprise-Intelligence-Lab
+- 📧 Contact: info@enterpriseintelligencelab.com
+
+  ## 🎬 Demo
+
+Coming Soon
+
+## 📸 Screenshots
+
+Coming Soon
+
+## 🎥 Video Walkthrough
+
+Coming Soon
