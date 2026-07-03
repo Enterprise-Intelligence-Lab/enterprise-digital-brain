@@ -2,10 +2,6 @@
 <img src="assets/banner.png" width="100%">
 </p>
 
-> 🚧 **Project Status**
->
-> Enterprise Digital Brain is currently in the architecture and design phase. Contributions, ideas, and discussions are welcome.
-> 
 # 🧠 Enterprise Digital Brain
 <p align="center">
 
@@ -21,6 +17,13 @@
 
 </p>
 
+> [!NOTE]
+> **Project Status**
+>
+> Enterprise Digital Brain is currently in the **Architecture & Design** phase.
+>
+> We are actively developing the platform and welcome ideas, discussions, and community contributions.
+
 ## 📑 Table of Contents
 
 - [Overview](#-overview)
@@ -33,7 +36,7 @@
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
-
+  
 ---
 
 ## 🚀 Overview
